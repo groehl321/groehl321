@@ -1,6 +1,6 @@
 {
-  "syncToken": "1660938191",
-  "createDate": "2022-08-25-10-10-08",
+  "syncToken": "1660938192",
+  "createDate": "2022-08-25-10-40-08",
   "prefixes": [
     {
       "ip_prefix": "3.3.3.0/24",
@@ -35,7 +35,7 @@
     {
       "ip_prefix": "9.9.9.0/24",
       "region": "af-south-1",
-      "service": "CODEBUILD",
+      "service": "ANOTHERSERVICE",
       "network_border_group": "af-south-1"
     },
     {
