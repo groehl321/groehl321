@@ -3,6 +3,18 @@
   "createDate": "2022-08-25-09-00-08",
   "prefixes": [
     {
+      "ip_prefix": "3.3.3.0/24",
+      "region": "us-east-1",
+      "service": "API_GATEWAY",
+      "network_border_group": "us-east-1"
+    }
+    {
+      "ip_prefix": "4.4.4.0/24",
+      "region": "us-east-1",
+      "service": "CLOUDFRONT",
+      "network_border_group": "us-east-1"
+    }
+    {
       "ip_prefix": "1.2.3.0/24",
       "region": "af-south-1",
       "service": "API_GATEWAY",
